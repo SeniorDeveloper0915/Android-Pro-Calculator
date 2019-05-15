@@ -1,2 +1,2 @@
-Android Pro Calculator
+Android
 =======
